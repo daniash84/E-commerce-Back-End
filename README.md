@@ -22,10 +22,14 @@ THEN I am able to successfully create, update, and delete data in my database
  **Installations** Dependencies needed are MYSQL2, Sequalize, dotenv package
 
 ### Deployment
-[Live]
+[Live]https://daniash84.github.io/E-commerce-Back-End/
 
 
 
 #### Video Link
 
 #### Resources:
+w3schools
+mdn
+google
+asu
